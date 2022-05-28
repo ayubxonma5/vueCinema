@@ -40,6 +40,9 @@ ul {
     column-gap: 24px;
 
 }
+.reklama.second{
+    background: linear-gradient(90.09deg, #8e6cd8 0%, #04bf5b 97.52%, #c20088 100%, #C27500 100%);
+}
 
 .reklama__txt {
     font-size: 16px;
@@ -551,7 +554,6 @@ body {
     color: #fff;
     font-weight: 700;
 }
-
 
 
 
